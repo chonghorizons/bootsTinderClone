@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import './profiles.dart';
+import 'package:tinder/tinder/profiles.dart';
 
 class MatchEngine extends ChangeNotifier {
   final List<Match> _matches;

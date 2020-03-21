@@ -1,9 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:fluttery_dart2/layout.dart';
-import 'package:tinder/profiles.dart';
-import './photos.dart';
-import './matches.dart';
+import 'package:tinder/tinder/profiles.dart';
+import 'package:tinder/tinder/photos.dart';
+import 'package:tinder/tinder/matches.dart';
 
 class CardStack extends StatefulWidget {
   final MatchEngine matchEngine;
